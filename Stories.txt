@@ -1,0 +1,128 @@
+#AdventureStoryBuilder
+BeginAdventureBeginning1
+There once was a young pirate who loved to sail. One day ***pronounChoiceHeShe*** found a map that showed the directions to an ancient treasure. Knowing that ***pronounChoiceHeShe*** was too young to do this alone, ***pronounChoiceHeShe*** searched for someone to help on this adventure. ***pronounChoiceHeShe*** printed multiple flyers and spread them all around ***locationName*** . But little did ***pronounChoiceHeShe*** know that someone named ***antagonistName*** had stumbled upon the flyer.  
+EndAdventureBeginning1
+
+BeginAdventureBeginning2
+Long ago in a city named ***locationName*** , lived a young child named ***protagonistName*** . ***pronounChoiceHeShe*** loved going on adventures that were full of challenges and danger. One morning ***pronounChoiceHeShe*** heard the knights declare that there was a competition that required the people to retrieve the gold from a nearby enemy camp. ***protagonistName*** decided that it would be best if ***pronounChoiceHeShe*** teamed up with someone.  
+EndAdventureBeginning2
+
+BeginAdventureBeginning3
+“Cock-a-doodle-do” screamed the roaster in the small town of ***locationName*** . This was a special morning in this town. Today all the teenagers get to compete to see who will be allowed to have a special weekend with the Royals. ***protagonistName*** has been looking forward to this day as ***pronounChoiceHeShe*** is finally old enough to participate. The knights appeared and declared that “anyone who is to find the missing Royal golden bars will be allowed not one but two special weekends with the Royals.” Hearing this, ***protagonistName*** was thrilled and wanted to get started right away. 
+EndAdventureBeginning3
+
+BeginAdventureMiddle1
+Once reaching out to ***protagonistName*** , both ***antagonistName*** and ***protagonistName*** headed out on their adventure to search for the treasure. Their first stop was a forest where the trees grew upside down. They both walked for three days and finally came to the shore, where ***protagonistName*** suggested that they take ***pronounChoiceHisHer*** ship that was docked upstream. ***antagonistName*** agreed and was planning a way to get rid of ***protagonistName*** .
+EndAdventureMiddle1
+
+BeginAdventureMiddle2
+***antagonistName*** decided to reach out to ***protagonistName*** and both of them headed out in search of the gold. On the trip ***antagonistName*** asked “So dear ***protagonistName*** Do you live alone?” To which ***protagonistName*** replied “Yes I do, my parents died a few months ago during the cold season.” Hearing this ***antagonistName*** thought “I should keep all the gold for me, this lonely child does not need it.” After walking for a few hours they had reached a ship that would take them to their next destination. 
+EndAdventureMiddle2
+
+BeginAdventureMiddle3
+Hearing the news, ***antagonistName*** decided that ***pronounChoiceHeShe*** would work along with ***protagonistName*** in order to quickly get the gold that the whole town was after. ***antagonistName*** told ***protagonistName*** “I am doing this so you can get what you always dreamed of.” Not knowing that ***antagonistName*** had something else in mind ***protagonistName*** believed this and was excited for the adventure. Searching for hours the two found a ship that seemed to be abandoned. Once boarding the ship the two decided that it would be faster to sail in order to find what they were looking for.   
+EndAdventureMiddle3
+
+BeginAdventureEnd1Happy
+Reaching the ship the two adventures only had to sail for 4 days straight until reaching their destination. During this time ***protagonistName*** started to feel that something was not right with ***antagonistName*** and decided to send ***pronounChoiceHimHer*** to the orlop deck, the lowest deck on the ship to retrieve some extra ropes to help with docking. Once ***antagonistName*** was below deck, ***protagonistName*** locked the door and screamed “I know that you want to take my ship and get the treasure for yourself, I will take all the gold and share it with the citizens of my home town.   
+EndAdventureEnd1Happy
+
+BeginAdventureEnd2Happy
+Figuring that something was not right with ***protagonistName*** , ***antagonistName*** decided that it would be best to take the small rowboat and go alone to find the gold. So, when the night fell ***protagonistName*** took the rowboat and proceeded to the campsite where the gold was kept. Once reaching there ***pronounChoiceHeShe*** took all the gold and went back home, till this day no one knows what happened to the ship that ***antagonistName*** was left on. 
+EndAdventureEnd2Happy
+
+BeginAdventureEnd1Sad
+Reaching the ship the two adventures only had to sail for 4 days straight until reaching their destination. During this time ***protagonistName*** started to feel that something was not right with ***antagonistName*** . However, it was too late, ***antagonistName*** had already planned for the ship to be attacked by pirates while ***protagonistName*** would be sleeping. Right before the attack ***antagonistName*** took the rowboat and headed to claim all the treasure. Looking back at the ship ***pronounChoiceHeShe*** could see the flames destroying everything. 
+EndAdventureEnd1Sad
+
+BeginAdventureEnd2Sad
+Figuring that something was not right with ***antagonistName*** , ***protagonistName*** decided that it would be best to take the small rowboat and proceed alone to find the gold. What ***pronounChoiceHeShe*** didn’t know was that ***antagonistName*** had placed a bomb on the rowboat that would go off once it hits the water. When ***protagonistName*** lowered the boat into the water it exploded, which allowed ***antagonistName*** to keep all the gold and run to a new city where no one can locate ***pronounChoiceHimHer*** again. 
+EndAdventureEnd2Sad
+
+
+#FantasyStoryBuilder
+
+BeginFantasyBeginning1
+Once upon a time in ***locationName*** , there lived a ***princePrincess*** named ***protagonistName*** . One day, ***pronounChoiceHeShe*** was taken from ***pronounChoiceHisHer*** castle by an evil baron, ***antagonistName*** . The baron told ***protagonistName*** 's father, the king, that he would return the ***princePrincess*** if the king would give the Baron his throne. The king loved his people and treated all of them with kindness and fairness, so it was not an easy choice. 
+EndFantasyBeginning1
+
+BeginFantasyBeginning2
+There once was a king who lived alone in a city named ***locationName*** . What he did not know was that there was an evil baron who had stolen the ***princePrincess*** and had wiped the memories of all of the townsfolk. However since the king had been gaining popularity ***antagonistName*** , the evil baron, decided it was time to blackmail him to gain more power. The morning after, the king received a letter from ***antagonistName*** explaining what had occurred just a few years ago. 
+EndFantasyBeginning2
+
+BeginFantasyBeginning3
+Once upon a time in the far away land of ***locationName*** there was a king who was cursed. The curse was placed on the king by an evil baron named ***antagonistName*** . The curse stated the king would slowly lose all of his memories if he did not find someone to love him. During this curse the king had forgotten about the ***princePrincess*** who the evil baron had stolen. However one day the king passed a small bakery and had charmed a young woman, who had been watching him from far. She gathered all her courage and gave the king a kiss. This was a true love's kiss that broke the spell and allowed for the king to remember what ***antagonistName*** had done with the ***princePrincess*** . 
+EndFantasyBeginning3
+
+BeginFantasyMiddle1
+Late that night, as the king was thinking about what could be done, a book fell off of a shelf. It opened to a page revealing a spell that could be used to grant one wish. The king was relieved that he found the spell. The only thing the king needed that he didn't have was ***spellSupplyVariable*** . It had been lost for many years. The king sent his knights on their fastest horses as far as the eye could see to search for the ***spellSupplyVariable*** . A couple days later, one of the knights returned with the ***spellSupplyVariable*** . 
+EndFantasyMiddle1
+
+BeginFantasyMiddle2
+Worried about the new found ***princePrincess*** , the king thought about what he could do in order to save the ***princePrincess*** from the clutches of ***antagonistName*** . At that moment something magical happened, a fairy appeared and told the king about a spell that can trap the evil baron. However the only problem was that the ***spellSupplyVariable*** was one of the rarest to be found. The king sent his fastest knights to find the ***spellSupplyVariable*** , as the kingdom needed it. 
+EndFantasyMiddle2
+
+BeginFantasyMiddle3
+Knowing that ***protagonistName*** was being held captive by the evil baron the king asked his advisors on what he should do. “Your majesty you must find the spell book and trick ***antagonistName*** so you can get the ***princePrincess*** back”. After searching through the book the king found a spell that would do the trick. The only problem was being able to find ***spellSupplyVariable*** . The king had all the members of his kingdom search for the ***spellSupplyVariable*** and once it was found the king put his spell into action. 
+EndFantasyMiddle3
+
+BeginFantasyEnd1Happy
+The evil baron, not knowing about the spell, found himself glued to his bed. No matter how hard he tried to get up, he couldn't. Shortly after that, the king shot up the stairs to the baron's room "My my, it seems you've found yourself in a sticky situation". As the king came into the light, the baron saw him standing there with the ***princePrincess*** . "I've been foiled again," said the baron.
+EndFantasyEnd1Happy
+
+BeginFantasyEnd2Happy
+With the ***spellSupplyVariable*** the king was able to put a spell on the evil baron. There was a big puff of smoke and ***antagonistName*** was turned into a mouse. Seeing this the ***princePrincess*** was happy and ran away from the cave towards the kingdom. Upon seeing the ***princePrincess*** the king was so happy he threw a party for the entire kingdom and screamed “ ***protagonistName*** oh how I have missed you”. Everyone was glad that the king was no longer alone in his huge castle. 
+EndFantasyEnd2Happy
+
+
+BeginFantasyEnd1Sad
+The evil baron had found out that the king was working on a spell. “What to do? Hmmm, I think I will put a reflection spell on myself” thought the evil barron. The king had casted the spell to trap the evil baron in a super sticky glue. However, the spell did not go to the evil barron but to the king. The king was now stuck to his throne “ ***antagonistName*** ! you can’t get away with this” screamed the king. The evil baron took the ***princePrincess*** and went far far away, leaving the kingdom to only have a trapped king and no ***princePrincess*** .
+EndFantasyEnd1Sad
+
+BeginFantasyEnd2Sad
+With the ***spellSupplyVariable*** the king was able to put a spell on the evil baron. But the king didn’t know that the evil baron had found a spell too, this spell would pass anything that will attack the evil baron to the ***princePrincess*** . There was a huge noise and a big puff of smoke, the ***princePrincess*** had been turned into a mouse. The king rushed to the place where the smoke was coming from and saw ***antagonistName*** holding ***protagonistName*** by the tail. “Oh my poor ***princePrincess*** what has happened, what will I do now?” screamed the king. The evil baron laughed and disappeared into the darkness leaving only the king with his new mouse. 
+EndFantasyEnd2Sad
+
+#WesternStoryBuilder
+BeginWesternBeginning1
+One day in the wild wild west there was a ranch hand named ***protagonistName*** ; Whose only dream was to ride all through the wild west and show the townsfolk that it is possible for a little ranch hand to have big dreams. Luckily for ***pronounChoiceHisHer*** there was someone in town who had the means to make that dream real. However ***antagonistName*** was known to be the rudest yee-haw-hers. Scared and worried ***protagonistName*** wondered how to approach ***antagonistName*** in order to ask for money, food and a horse. 
+EndWesternBeginning1
+
+BeginWesternBeginning2
+The sun started to set in the wild west and the entire town was quiet, no one made a sound, not even a mouse. Then there was a loud scream coming from the small little ranch ran by ***protagonistName*** . Some of the townsfolk ran towards the ranch to make sure the young ranch hand was ok. Once reaching the ranch they saw that ***protagonistName*** was hanging upside down from a beam, as ***pronounChoiceHeShe*** had slipped while tying a net. The young ranch hand never really wanted to run a ranch but instead always wanted to travel and see the whole wild west. Not knowing what to do ***pronounChoiceHeShe*** stayed at the ranch and dreamed about riding horses alongside other cowpeople. 
+EndWesternBeginning2
+
+BeginWesternBeginning3
+There once lived a young ranch hand who was always treated poorly by those who lived at the ranch. The young ranch hands name was ***protagonistName*** . ***protagonistName*** loved to ride horses and tend to the cattle, but ***pronounChoiceHeShe*** wanted to get away from the hate of the people on the ranch. When ever ***protagonistName*** was given a chore to do outside the ranch ***pronounChoiceHeShe*** would get so happy as that would mean seeing the other people in the town. All of the townsfolk knew that something was not right in the ranch, but knew that ***protagonistName*** was a jolly soul and had big dreams to travel around the wild west. 
+EndWesternBeginning3
+
+BeginWesternMiddle1
+Getting some advice from the towns elders ***protagonistName*** decided it was time to approach the rudest yee-haw-her in town. ***protagonistName*** walked through the town center and heard all the other cowboys screaming and fighting over who won the last rodeo. While walking ***pronounChoiceHeShe*** stepped on a bearded dragon and ***protagonistName*** was startled. After a few hours of traveling ***pronounChoiceHeShe*** got to a huge ranch that had a huge house in the middle of it. “This must be where ***antagonistName*** lives” said ***protagonistName*** . 
+EndWesternMiddle1
+
+BeginWesternMiddle2
+An elder in town instructed the young ranch hand that it would be wise to ask ***antagonistName*** for help. ***antagonistName*** was one of the richest people in the wild west, however had a terrible nickname. ***antagonistName*** was referred to as the rudest, meanest, nastiest yee-haw-her in the country. ***antagonistName*** was known to win any brawl or match that they took part in, and never wanted to help anyone. With this in mind ***protagonistName*** started to think on easy ways to win if a brawl was necessary to gain the help of ***antagonistName*** . ***antagonistName*** had the biggest ranch that was ever created in the wild west, if you thought about it, it was there. However, the walk to the ranch owned by ***antagonistName*** was a long one. After a few hours ***protagonistName*** could see the sign for the ranch. 
+EndWesternMiddle2
+
+BeginWesternMiddle3
+Many of the townsfolk pleaded with the ranch owners to let the poor young ranch hand live out that dream. They would always say that “we don’t have enough money to send ***protagonistName*** around the wild west.” One of the townsfolk approached ***protagonistName*** and told them that on the other end of town there lived a yee-haw-her who is not like the rest, but instead was rich enough to buy the entire wild west. “ ***antagonistName*** is one of the richest but he is also the rudest person to live. However he will do anything if one wins in a brawl with ***pronounChoiceHisHer*** ". Said the townsman. Hearing this ***protagonistName*** decided to go on the journey to meet this yee-haw-her. 
+EndWesternMiddle3
+
+
+BeginWesternEnd1Happy
+Once arriving at the ranch of the rudest yee-haw-her, ***protagonistName*** thought “how should I make my request to ***antagonistName*** ". After gathering all the strength in ***pronounChoiceHisHer*** little ranch hand body, ***protagonistName***  knocked on the door. “Hello? How can I help you?” said ***antagonistName*** “If you will good yee-haw-her, is it possible for you to spare me some gold and a horse? I would like to travel all across the wild wild west, but it is not possible for me to do it alone.” said ***protagonistName*** . ***antagonistName*** laughed and said “oh you poor little kid, I guess I can give you some gold and a horse, but only if you beat me in a showdown at dawn.” When dawn finally set the two cowfolks were seen in the town center waiting to draw their weapons. “3...2...1...Draw!!” yelled ***antagonistName*** there was a moment of silence, but when the dust cleared the entire town could see that ***protagonistName*** had won. ***protagonistName*** was now able to travel all through the wild wild west. 
+EndWesternEnd1Happy
+
+BeginWesternEnd2Happy
+Once reaching the ranch ***protagonistName*** knocked on the door and was ready to meet ***antagonistName*** . The door slowly opened and there stood a tall dark figure, “How can I help you little pipsqueak” said ***antagonistName***  . “I would like to ask for some gold and a big horse so I can travel all around the wild west” replied the little ranch hand. **antagonistName laughed loudly and said “you must think that I am a charity, handing out freebies to those who ask. But since you are so confident I will give you what you want if you can beat me in a brawl.” Both of them went to the center of town and were getting ready to brawl. In order to win ***antagonistName*** switched out the bullets that  ***protagonistName*** had. This would make the gun heavier and make ***protagonistName*** slower. However, a town elder had seen this been done and switched the bullets in the gun back without ***antagonistName*** knowing. “3...2...1...DRAW!” Everyone was shocked to see that ***protagonistName*** had beat ***antagonistName*** . No had ever beaten ***antagonistName*** , ***antagonistName*** was an undefeated rude yee-haw-her who had just been beaten by a young ranch hand. Staying true to the agreement ***antagonistName*** gave ***protagonistName*** everything that was needed to make the journey all around the wild west. 
+EndWesternEnd2Happy
+
+BeginWesternEnd1Sad
+Once arriving at the ranch of the rudest yee-haw-her, ***protagonistName*** thought “how should I make my request to ***antagonistName*** ". After gathering all the strength in ***pronounChoiceHisHer*** little ranch hand body, ***protagonistName***  knocked on the door. “Hello? How can I help you?” said ***antagonistName*** “If you will good yee-haw-her, is it possible for you to spare me some gold and a horse? I would like to travel all across the wild wild west, but it is not possible for me to do it alone.” said ***protagonistName*** . ***antagonistName*** laughed and said “oh you poor little kid, I guess I can give you some gold and a horse, but only if you beat me in a showdown at dawn.” When dawn finally set, the two cowfolks were seen in the town center waiting to draw their weapons. “3...2...1...Draw!!” yelled ***antagonistName*** there was a moment of silence, but when the dust cleared the entire town could see that ***antagonistName*** had won. ***protagonistName*** started to cry and ran away from the town while ***antagonistName*** laughed loudly.
+EndWesternEnd1Sad
+
+BeginWesternEnd2Sad
+Once reaching the ranch ***protagonistName*** knocked on the door and was ready to meet ***antagonistName*** . The door slowly opened and there stood a tall dark figure, “How can I help you little pipsqueak” said ***antagonistName***  . “I would like to ask for some gold and a big horse so I can travel all around the wild west” replied the little ranch hand. **antagonistName laughed loudly and said “you must think that I am a charity, handing out freebies to those who ask. But since you are so confident I will give you what you want if you can beat me in a brawl.” Both of them went to the center of town and were getting ready to brawl. In order to win ***antagonistName*** switched out the bullets that  ***protagonistName*** had. This would make the gun heavier and make ***protagonistName*** slower. The bell rang and everyone screamed “3...2...1...DRAW!” Everyone was shocked to see that ***protagonistName*** was not able to lift the gun from the holder. ***antagonistName*** had won once again, laughing loudly ***antagonistName*** said “You little ranch hand, you weren’t meant to travel the wild west. Go home to your little ranch and stay there till you grow old.” ***protagonistName*** sadly started to walk back to the ranch, the entire town still feels the sadness of the broken dream till today.  
+EndWesternEnd2Sad
+
+
